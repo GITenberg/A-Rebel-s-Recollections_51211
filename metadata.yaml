@@ -1,5 +1,8 @@
 _repo: A-Rebel-s-Recollections_51211
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51211-h/images/cover.jpg
 creator:
   author:
     agent_name: Eggleston, George Cary
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8154
     wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51211#A-Rebel-s-Recollections
 gutenberg_issued: '2016-02-14'
 gutenberg_type: Text
 identifiers:
